@@ -24,14 +24,8 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AliShahbazi81&theme=blueberry&hide_border=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ali Shahbazi's github-readme-stats"/>
-=======
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AliShahbazi81&theme=blueberry&hide_border=true&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Ali Shahbazi's github-readme-stats"/>
->>>>>>> 8c4c261 (Update README.md)
-  </a>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=AliShahbazi81&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D"  width="47%" alt="@Ali Shahbazi's github-readme-streak-stats"/>
-  </a>
 </p>
 <br><br>
 
