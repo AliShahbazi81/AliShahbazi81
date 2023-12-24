@@ -120,7 +120,7 @@
 ``` java
 foreach (problem in life)
 {
-    if (problem.IsSolvable)
+    if (problem.IsSolvable())
         Handle();
     else
         LeaveIt();
